@@ -1,4 +1,4 @@
-- Hi, I’m @AnouarRedouani
+- Hi, I’m Anouar Redouani
 
 - I’m interested in data science, machine learning, and applying analytics to public finance and competitive market analysis.
 - I’m currently learning advanced techniques in data visualization, statistical modeling, and exploring new tools for big data processing.
